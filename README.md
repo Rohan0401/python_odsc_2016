@@ -1,16 +1,20 @@
 # PyCon 2014 Scikit-learn Tutorial
 
-*Instructor: Jake VanderPlas*
+*Instructor: Peter Prettenhofer*
 
-- email: <jakevdp@cs.washington.edu>
+- email: <peter.prettenhofer@gmail.com>
+- twitter: [@pprett](https://twitter.com/pprett)
+- github: [pprett](http://github.com/pprett)
+
+This respository contains files associated with my Pycon Ukraine 2014
+scikit-learn tutorial that is a slightly modified version of Jake VanderPlas's
+PyCon 2014 tutorial: https://github.com/jakevdp/sklearn_pycon2014 .
+
+For more information on Jake see:
+
 - twitter: [@jakevdp](https://twitter.com/jakevdp)
 - github: [jakevdp](http://github.com/jakevdp)
 
-This repository will contain files and other info associated with my PyCon
-2014 scikit-learn tutorial.
-
-## Video
-The video is available on PyVideo: [Exploring Machine Learning with Scikit-Learn](http://pyvideo.org/video/2561/exploring-machine-learning-with-scikit-learn)
 
 ## Installation Notes
 This tutorial will require recent installations of *numpy*, *scipy*,
@@ -34,7 +38,7 @@ I would highly recommend using git, not only for this tutorial, but for the
 general betterment of your life.  Once git is installed, you can clone the
 material in this tutorial by using the git address shown above:
 
-    git clone git://github.com/jakevdp/sklearn_pycon2014.git
+    git clone git@github.com:pprett/sklearn_pycon2014.git
 
 If you can't or don't want to install git, there is a link above to download
 the contents of this repository as a zip file.  I may make minor changes to
@@ -49,6 +53,9 @@ be able to be modified within nbviewer.  To modify them, first download
 the tutorial repository, change to the notebooks directory, and type
 ``ipython notebook``.  You should see the list in the ipython notebook
 launch page in your web browser.
+
+# TODO update these
+
 
 - [00_Preliminaries.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/00_Preliminaries.ipynb)
 - [01_basics.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/01_basics.ipynb)
