@@ -57,13 +57,13 @@ launch page in your web browser.
 # TODO update these
 
 
-- [00_Preliminaries.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/00_Preliminaries.ipynb)
-- [01_basics.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/01_basics.ipynb)
-- [02_data_representation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/02_data_representation.ipynb)
-- [03_basic_principles.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/03_basic_principles.ipynb)
-- [04_supervised_in_depth.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/04_supervised_in_depth.ipynb)
-- [05_unsupervised_in_depth.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/05_unsupervised_in_depth.ipynb)
-- [06_validation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/jakevdp/sklearn_pycon2014/master/notebooks/06_validation.ipynb)
+- [00_Preliminaries.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/00_Preliminaries.ipynb)
+- [01_basics.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/01_basics.ipynb)
+- [02_data_representation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/02_data_representation.ipynb)
+- [03_basic_principles.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/03_basic_principles.ipynb)
+- [04_supervised_in_depth.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/04_supervised_in_depth.ipynb)
+- [05_unsupervised_in_depth.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/05_unsupervised_in_depth.ipynb)
+- [06_validation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/06_validation.ipynb)
 
 Note that some of the code in these notebooks will not work outside the
 directory structure of this tutorial, so it is important to clone the full
