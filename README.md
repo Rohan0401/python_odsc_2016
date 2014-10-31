@@ -54,9 +54,6 @@ the tutorial repository, change to the notebooks directory, and type
 ``ipython notebook``.  You should see the list in the ipython notebook
 launch page in your web browser.
 
-# TODO update these
-
-
 - [00_Preliminaries.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/00_Preliminaries.ipynb)
 - [01_basics.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/01_basics.ipynb)
 - [02_data_representation.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/pprett/sklearn_pycon2014/master/notebooks/02_data_representation.ipynb)
