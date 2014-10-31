@@ -7,4 +7,5 @@ for Class in [KNeighborsClassifier, GaussianNB, SVC]:
     y_pred = cls.predict(X_test)
     print("-------------------------------------------")
     print(Class.__name__)
-    print(metrics.classification_report(y_pred, y_test))
+    print(metrics.classification_report(y_pred, y_test),
+          target_names=['background', 'foreground'])
