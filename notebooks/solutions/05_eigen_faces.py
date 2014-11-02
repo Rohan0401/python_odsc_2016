@@ -24,7 +24,7 @@ for i in range(16):
 X_emb = pca.transform(X)
 
 # compute reconstruction
-X_rec = np.dot(X_emb, pca.components_).reshape((X_rec.shape[0], 64, 64))
+X_rec = np.dot(X_emb, pca.components_).reshape((X_emb.shape[0], 64, 64))
 
 # set up the figure
 fig = plt.figure(figsize=(6, 6))  # figure size in inches
