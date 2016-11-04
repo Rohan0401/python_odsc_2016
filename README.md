@@ -1,4 +1,4 @@
-# PyCon 2014 Scikit-learn Tutorial
+# ODSC 2016 Scikit-learn Tutorial
 
 *Instructor: Hamel Husain*
 - email: <hamel.husain@gmail.com>
