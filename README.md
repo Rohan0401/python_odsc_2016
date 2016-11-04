@@ -2,7 +2,7 @@
 
 *Instructor: Hamel Husain*
 - email: <hamel.husain@gmail.com>
-- [linkedin](www.linkedin.com/in/hamelhusain)
+- [LinkedIn](https://www.linkedin.com/in/hamelhusain)
 
 *Original Author: Peter Prettenhofer*
 
@@ -53,4 +53,4 @@ Note that some of the code in these notebooks will not work outside the
 directory structure of this tutorial, so it is important to clone the full
 repository if possible.
 
-Recommended Reading:  [Intro To Machine Learning With Python]http://shop.oreilly.com/product/0636920030515.do
+Recommended Reading:  [Intro To Machine Learning With Python](http://shop.oreilly.com/product/0636920030515.do)
