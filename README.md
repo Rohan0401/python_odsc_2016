@@ -13,11 +13,6 @@ This respository contains files associated with Peter's Ukraine 2014
 scikit-learn tutorial that is a slightly modified version of Jake VanderPlas's
 PyCon 2014 tutorial: https://github.com/jakevdp/sklearn_pycon2014 .
 
-For more information on Jake see:
-
-- twitter: [@jakevdp](https://twitter.com/jakevdp)
-- github: [jakevdp](http://github.com/jakevdp)
-
 
 ## Installation Notes
 This tutorial will require recent installations of *numpy*, *scipy*,
