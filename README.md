@@ -1,12 +1,15 @@
 # PyCon 2014 Scikit-learn Tutorial
 
-*Instructor: Peter Prettenhofer*
+*Instructor: Hamel Husain*
+- email: <hamel.husain@gmail.com>
+
+*Original Author: Peter Prettenhofer*
 
 - email: <peter.prettenhofer@gmail.com>
 - twitter: [@pprett](https://twitter.com/pprett)
 - github: [pprett](http://github.com/pprett)
 
-This respository contains files associated with my Pycon Ukraine 2014
+This respository contains files associated with Peter's Ukraine 2014
 scikit-learn tutorial that is a slightly modified version of Jake VanderPlas's
 PyCon 2014 tutorial: https://github.com/jakevdp/sklearn_pycon2014 .
 
