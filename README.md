@@ -27,9 +27,8 @@ The last one is important: you should be able to type
     jupyter notebook
 
 in your terminal window and see the notebook panel load in your web browser.
-Because Python 3 compatibility is still being ironed-out for these packages
-(we're getting close, I promise!) participants should plan to use Python 2.6
-or 2.7 for this tutorial.
+We are using Python 2 for logistical purposes. Participants should plan to use
+Python 2.6 or 2.7 for this tutorial.
 
 For users who do not yet have these  packages installed, a relatively
 painless way to install all the requirements is to use a package such as
